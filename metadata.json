@@ -1,0 +1,7 @@
+{
+  "name": "Banana Figure Maker",
+  "description": "Automatically transforms uploaded images into realistic collectible figures holding a banana on a computer desk using the Gemini 2.5 Flash Image model.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
